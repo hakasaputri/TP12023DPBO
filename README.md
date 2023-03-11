@@ -10,13 +10,17 @@ Kelas Manusia memiliki metode Kegiatan Manusia yang berupa makan, minum atau tid
 
 
 ### Desain Program
-di folder desain
+
+![Desain TP1](https://user-images.githubusercontent.com/101456296/224487285-79f96e6a-34ca-4fde-b05d-d93babeee6af.png)
 
 
 ### Screenshot Program
 
 #### Python
-di folder SS
+
+![py1](https://user-images.githubusercontent.com/101456296/224487292-68add3d3-7cfa-475e-80c9-5fc04034acc1.png)
+![py2](https://user-images.githubusercontent.com/101456296/224487293-dfbc96c5-1640-4333-b499-6f0c1febf2ee.png)
+![py3](https://user-images.githubusercontent.com/101456296/224487296-d2dddc44-b76b-49fc-a720-9746efa523d4.png)
 
 
 
